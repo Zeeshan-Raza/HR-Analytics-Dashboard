@@ -1,5 +1,8 @@
 # HR-Analytics-Dashboard
-HR Analytics Dashboard Project 
+# HR Analytics Dashboard Project 
+![HR Analytics Dashboard](https://github.com/Zeeshan-Raza/HR-Analytics-Dashboard/assets/94892875/ab7555f1-a1e3-41aa-a5b8-c9a9ee7372b8)
+
+
 # Situation
 Our organization was experiencing a noticeable increase in employee turnover, which was impacting productivity and increasing recruitment costs. Despite efforts to improve employee retention, the lack of data-driven insights made it difficult to identify the root causes of attrition. The HR department needed a comprehensive tool to analyze workforce data and derive actionable insights to address the attrition issue effectively.
 
